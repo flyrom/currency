@@ -1,0 +1,9 @@
+.header {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.7);
+    padding: 3%;
+    text-align: center;
+    background-color: rgb(131, 131, 131);
+}
